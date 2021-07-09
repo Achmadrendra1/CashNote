@@ -21,10 +21,4 @@ class Cashnote {
       'jumlah': jumlahTrx
     };
   }
-
-  // @override
-  // String toString() {
-  //   return 'Trans{id: $id, transName: $transName, amount: $amount}';
-  // }
-
 }
