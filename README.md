@@ -1,6 +1,7 @@
 # uas_rendra
 
 A new Flutter project.
+CashNote App
 
 ## Getting Started
 
