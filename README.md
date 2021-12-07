@@ -1,4 +1,4 @@
-# uas_rendra
+# CashNote
 
 A new Flutter project.
 CashNote App
